@@ -8,17 +8,17 @@ Dane zostały poddane analizie z wykorzystaniem języka programowania Python. Pr
 
 
 **Input:**
-  sekwencje w formacie bam lub sam
+* sekwencje w formacie bam lub sam
 
 **Output:**
-  tabela z informacjami, jakie nukleotydy znajdują się na pozycjach 3460 i 9889 w genomie mitochodrialnym.
+* tabela z informacjami, jakie nukleotydy znajdują się na pozycjach 3460 i 9889 w genomie mitochodrialnym.
 
 **Wymagania:**
  
-samtools 1.10
-Python 3.X
-matplotlib
-numpy
-pandas
-seaborn
-re
+* samtools 1.10
+* Python 3.X
+* matplotlib
+* numpy
+* pandas
+* seaborn
+* re
